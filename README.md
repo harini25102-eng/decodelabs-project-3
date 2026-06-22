@@ -16,7 +16,7 @@ This project is part of an AI internship initiative to build intelligent recomme
 
 ## Tech Stack
 
-- **Language**: Python 3.x
+- **Language**: Python 3.13.7
 - **Libraries**:
   - `pandas` - Data manipulation and analysis
   - `scikit-learn` - TF-IDF vectorization and cosine similarity
@@ -73,13 +73,13 @@ Example: Python, Machine Learning, SQL
 
 Enter your skills (comma-separated): Python, Machine Learning, SQL
 
-✓ Your skills: Python, Machine Learning, SQL
+Your skills: Python, Machine Learning, SQL
 
-Processing TF-IDF vectorization...
-✓ TF-IDF vectorization complete
+Processing TF-IDF vectorization.
+ TF-IDF vectorization complete
 
-Calculating similarity scores...
-✓ Similarity calculation complete
+Calculating similarity scores.
+ Similarity calculation complete
 
 ============================================================
 TOP 3 RECOMMENDED JOB ROLES
@@ -151,14 +151,6 @@ Try these skill combinations:
 - Build a web interface using Flask/Django
 - Add skill gap analysis (what skills to learn next)
 - Use advanced NLP models (word embeddings, transformer models)
-
-## Author
-
-Created for AI Internship Project 3 at DecodeLabs
-
-## License
-
-This project is open source and available for educational purposes.
 
 ---
 
